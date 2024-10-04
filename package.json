@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Sofiak27.github.io/pomodoro-clock",
+  "homepage": "https://Sofiak27.github.io/pomodoro_clock",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
